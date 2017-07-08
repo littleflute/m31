@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Mercy Mercy Me (The Ecology).mp3";		
+f[2]	= "02 Heavy Vibes.mp3";		
+f[3]	= "07 Inner Sense.mp3";		
+f[4]	= "08 Ain't No Sunshine.mp3";		
+f[5]	= "09 Can't Get Enough.mp3";		
+f[6]	= "10 Keep on Moving.mp3";		
+f[7]	= "11 So What.mp3";		
+f[8]	= "12 Another Time.mp3";		
+f[9]	= "Astralisation.mp3";		
+f[10]	= "Righteous.mp3";		
+f[11]	= "Rubbernecking.mp3";		
+f[12]	= "Sphynx.mp3";		

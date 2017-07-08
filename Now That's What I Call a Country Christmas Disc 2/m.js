@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Christmas Cookies.mp3";		
+f[2]	= "02 Winter Wonderland.mp3";		
+f[3]	= "03 Let It Be Christmas.mp3";		
+f[4]	= "04 Away in a Manger.mp3";		
+f[5]	= "05 Meet Me Under the Mistletoe.mp3";		
+f[6]	= "06 Please Come Home for Christmas.mp3";		
+f[7]	= "07 Santa's Coming Over to Your House.mp3";		
+f[8]	= "08 The Christmas Guest.mp3";		
+f[9]	= "09 Little Drummer Boy.mp3";		
+f[10]	= "10 Merry Christmas From the Family.mp3";		
+f[11]	= "11 Pretty Paper.mp3";		
+f[12]	= "12 It Wasn't His Child.mp3";		
+f[13]	= "13 Putting a Little Holiday in Your Heart.mp3";		
+f[14]	= "14 Deck the Halls.mp3";		
+f[15]	= "15 I'll Be Home for Christmas.mp3";		

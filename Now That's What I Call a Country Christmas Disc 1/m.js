@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Run Run Rudolph.mp3";		
+f[2]	= "02 Merry Christmas Baby.mp3";		
+f[3]	= "03 What Child Is This.mp3";		
+f[4]	= "04 Santa, I'm Right Here.mp3";		
+f[5]	= "05 All I Want for Christmas Is a Real Good Tan.mp3";		
+f[6]	= "06 Santa Looked a Lot Like Daddy.mp3";		
+f[7]	= "07 What God Wants for Christmas.mp3";		
+f[8]	= "08 Christmas (Baby, Please Come Home).mp3";		
+f[9]	= "09 O Come, O Come, Emmanuel.mp3";		
+f[10]	= "10 Have Yourself a Merry Little Christmas.mp3";		
+f[11]	= "11 Mele Kalikimaka.mp3";		
+f[12]	= "12 Blue Christmas.mp3";		
+f[13]	= "13 Holly Jolly Christmas.mp3";		
+f[14]	= "14 O Holy Night.mp3";		
+f[15]	= "15 Silent Night.mp3";		
